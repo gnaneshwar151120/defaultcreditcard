@@ -34,9 +34,7 @@ The dataset used in this project is the Default of Credit Card Clients Dataset f
 * Target variable indicating whether the client defaulted or not
 ## Running the Project
 * Install the required libraries using pip:
-
-bash
-Copy code
+* Copy code
 pip install ucimlrepo pandas numpy matplotlib seaborn scikit-learn imbalanced-learn plotly kneed
 Download the dataset and create a dataframe:
 
