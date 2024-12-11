@@ -46,5 +46,5 @@ X = default_of_credit_card_clients.data.features
 y = default_of_credit_card_clients.data.targets
 Follow the steps in the notebook to preprocess the data, train models, and evaluate performance.
 
-* Conclusion
+## Conclusion
 This project provides a detailed analysis and predictive modeling approach for credit card default prediction. The various classifiers and techniques used here can help in understanding patterns in financial data and making informed predictions for future credit card clients.
